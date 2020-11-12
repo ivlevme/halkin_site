@@ -60,7 +60,7 @@ footer span {
   margin-bottom: 20px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .projects ul {
     flex-direction: column;
   }
@@ -68,9 +68,7 @@ footer span {
   .projects li {
     width: 100%;
   }
-}
 
-@media (max-width: 320px) {
   .header img {
     width: 280px;
   }
